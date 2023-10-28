@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ronaldos-recipes",
+    "slug": "ronaldos-recipes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ronaldos-recipes"
+}
